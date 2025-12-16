@@ -82,25 +82,41 @@ Aspiring Full Stack Developer | DSA Enthusiast | Editor
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
+
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=ShivangiP2005&show_icons=true&theme=radical&hide_border=true&card_width=400" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShivangiP2005&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="GitHub Stats" />
+
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangiP2005&layout=compact&theme=radical&hide_border=true&card_width=400" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangiP2005&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Most Used Languages" />
+
 </td>
 </tr>
 </table>
 
----
-
-## 🔥 Contributions & Streak
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivangiP2005&theme=radical" alt="GitHub Streak"/>
 </div>
 
----
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivangiP2005&theme=radical" alt="GitHub Streak Stats" />
+
+</div>
+
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivangiP2005&theme=radical" alt="Contribution Graph" /></div>
+
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivangiP2005&theme=radical" alt="GitHub Profile Summary" />
+
+</div>
+
 
 ## 📱 Socials
 <p align="left">
