@@ -43,7 +43,7 @@ Aspiring Full Stack developer | DSA Enthusiast  | Editor
 ### **Backend as a Service(BaaS)**
 <div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/vercel-icon.svg" alt="Vercel" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
 
-## **📊 Analytics & Statistics**
+📊 GitHub Stats
 
 <div align="center">
 
