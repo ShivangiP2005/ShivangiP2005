@@ -14,62 +14,128 @@ Aspiring Full Stack Developer | DSA Enthusiast | Editor
 - 🔭 Currently building Full Stack websites & AI agents  
 - 🌱 Learning MERN stack, AI agents, and DSA  
 - 📫 Reach me:  
-  <a href="https://github.com/ShivangiP2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>  
-  <a href="https://www.linkedin.com/in/shivangi-pandey-976aa9285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+<a href="https://github.com/ShivangiP2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>  
+<a href="https://www.linkedin.com/in/shivangi-pandey-976aa9285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 
 ---
 
 ## ⚒️ Skills
 
 ### Programming Languages
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
-<img src="https://img.icons8.com/plasticine/400/oracle-pl-sql--v3.png" width="60" height="60"/>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+    <span>Java</span>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+    <span>JavaScript</span>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
+    <span>PHP</span>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://img.icons8.com/plasticine/400/oracle-pl-sql--v3.png" width="50"/>
+    <span>PL/SQL</span>
+  </div>
 </div>
 
 ### Frontend Development
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60"/>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+    <span>HTML5</span>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+    <span>CSS3</span>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+    <span>JavaScript</span>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
+    <span>Bootstrap</span>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+    <span>Express</span>
+  </div>
 </div>
 
 ### Backend Development
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+    <span>Node.js</span>
+  </div>
 </div>
 
-### AI/ML
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60"/>
+### AI / ML
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+    <span>Jupyter</span>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
+    <span>Scikit-learn</span>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
+    <span>Matplotlib</span>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+    <span>NumPy</span>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+    <span>Pandas</span>
+  </div>
 </div>
 
-### Database
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
+### Databases
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+    <span>MySQL</span>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+    <span>MongoDB</span>
+  </div>
 </div>
 
 ### DevOps & BaaS
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/vercel-icon.svg" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/github-actions.svg" width="60" height="60"/>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+    <span>Git</span>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
+    <span>AWS</span>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="50"/>
+    <span>Netlify</span>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/vercel-icon.svg" width="50"/>
+    <span>Vercel</span>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; padding:5px; border:1px solid #ddd; border-radius:8px;">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/github-actions.svg" width="50"/>
+    <span>GitHub Actions</span>
+  </div>
 </div>
 
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
 <table>
@@ -87,13 +153,9 @@ Aspiring Full Stack Developer | DSA Enthusiast | Editor
 
 ---
 
-## 🔥 GitHub Streak & Contribution Graph
+## 🔥 GitHub Contributions & Streak
 <div align="center">
-<img src="https://github-readme-streak-stats.demolab.com?user=ShivangiP2005&theme=radical" alt="GitHub Streak Stats"/>
-<br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivangiP2005&theme=radical" alt="Profile Summary"/>
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivangiP2005&theme=radical" alt="Contribution Graph"/>
+![GitHub Contributions](https://ghchart.rshah.org/ShivangiP2005)
 </div>
 
 ---
