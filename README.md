@@ -27,7 +27,7 @@ Aspiring Full Stack Developer | DSA Enthusiast | Editor
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>Java</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/><br>PHP</td>
-<td align="center"><img src="https://img.icons8.com/plasticine/400/oracle-pl-sql--v3.png" width="50"/><br>PL/SQL</td>
+<td align="center"><img src="https://img.icons8.com/plasticine/400/oracle-pl-sql--v3.png" width="50"/><br>SQL</td>
 </tr>
 </table>
 
@@ -49,17 +49,6 @@ Aspiring Full Stack Developer | DSA Enthusiast | Editor
 </tr>
 </table>
 
-### AI / ML
-<table>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/><br>Jupyter</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/><br>Scikit-learn</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/><br>Matplotlib</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/><br>NumPy</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br>Pandas</td>
-</tr>
-</table>
-
 ### Databases
 <table>
 <tr>
@@ -72,7 +61,6 @@ Aspiring Full Stack Developer | DSA Enthusiast | Editor
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/><br>AWS</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="50"/><br>Netlify</td>
 <td align="center"><img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/vercel-icon.svg" width="50"/><br>Vercel</td>
 <td align="center"><img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/github-actions.svg" width="50"/><br>GitHub Actions</td>
